@@ -1,5 +1,7 @@
 # ESIP Infrastructure Program Dashboard
 
+![Dashboard Screenshot](public/dashboard-screenshot.png)
+
 A comprehensive dashboard for visualizing and managing the ESIP (Economic and Social Infrastructure Program) portfolio, built with React and Vite.
 
 ## Features
