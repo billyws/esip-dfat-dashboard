@@ -2,7 +2,7 @@
 
 A comprehensive dashboard for visualizing and managing the ESIP (Economic and Social Infrastructure Program) portfolio, built with React and Vite.
 
-## 🚀 Features
+## Features
 
 *   **Interactive Dashboard:** A dynamic and responsive overview of infrastructure projects.
 *   **Geospatial Visualization:** Integrated interactive maps using Leaflet to display project locations and boundaries.
@@ -10,7 +10,7 @@ A comprehensive dashboard for visualizing and managing the ESIP (Economic and So
 *   **Modern UI:** A clean, accessible, and fast interface styled with Tailwind CSS v4 and standard React components.
 *   **Icons:** Comprehensive iconography using Lucide React.
 
-## 🛠️ Technology Stack
+## Tech Stack
 
 *   [React](https://react.dev/) (v19)
 *   [Vite](https://vitejs.dev/) - Fast frontend tooling and builder
@@ -19,7 +19,7 @@ A comprehensive dashboard for visualizing and managing the ESIP (Economic and So
 *   [Leaflet](https://leafletjs.com/) - Interactive maps
 *   [Lucide React](https://lucide.dev/) - Beautiful & consistent icons
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 1.  **Clone the repository:**
     ```bash
@@ -39,20 +39,14 @@ A comprehensive dashboard for visualizing and managing the ESIP (Economic and So
     ```
     This will start the local server, typically available at `http://localhost:5173`.
 
-## 🏗️ Build for Production
 
-To create an optimized production build, run:
-```bash
-npm run build
-```
-This will generate the built assets in the `dist` directory, ready to be deployed to your hosting environment of choice.
 
-## 📝 Scripts
+## Scripts
 
 *   `npm run dev`: Starts the development server.
 *   `npm run build`: Builds the app for production.
 *   `npm run preview`: Locally preview the production build.
 
-## 📄 License
+## License
 
 This project is licensed under the ISC License.
