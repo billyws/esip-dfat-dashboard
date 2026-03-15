@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* Leaflet override to prevent map from being too tall/short */
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+  z-index: 10;
+}
